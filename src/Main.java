@@ -7,6 +7,5 @@ public class Main {
          ShiftAndRename shiftAndRename = new ShiftAndRename(myLocation, "frame", 60);
 
          shiftAndRename.doShiftAndRename();
-
     }
 }
